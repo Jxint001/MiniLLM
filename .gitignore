@@ -2,5 +2,7 @@
 reference/
 AGENTS.md
 cs336_assignment1_basics.pdf
-/data/
+/data/*
+!/data/full_release/
+!/data/full_release/**
 **/__pycache__/
